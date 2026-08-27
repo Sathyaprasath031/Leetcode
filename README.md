@@ -90,12 +90,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sathyaprasath031/Leetcode/tree/master/0049-group-anagrams) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sathyaprasath031/Leetcode/tree/master/0049-group-anagrams) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sathyaprasath031/Leetcode/tree/master/0049-group-anagrams) |
+## Greedy
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->

@@ -1,6 +1,7 @@
 class dsu:
     def __init__(self,n):
         self.parent=list(range(n+1))
+        print(self.parent)
     def find(self,x):
         if self.parent[x]==x:
             return x

@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sathyaprasath031/Leetcode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Sathyaprasath031/Leetcode/tree/master/0733-flood-fill) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -175,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sathyaprasath031/Leetcode/tree/master/0207-course-schedule) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

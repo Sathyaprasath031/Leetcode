@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Sathyaprasath031/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Sathyaprasath031/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sathyaprasath031/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Sathyaprasath031/Leetcode/tree/master/0733-flood-fill) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sathyaprasath031/Leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/Sathyaprasath031/Leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Sathyaprasath031/Leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Sathyaprasath031/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Sathyaprasath031/Leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
@@ -229,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

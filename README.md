@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Sathyaprasath031/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sathyaprasath031/Leetcode/tree/master/0051-n-queens) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0045-jump-game-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sathyaprasath031/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Sathyaprasath031/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Sathyaprasath031/Leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Sathyaprasath031/Leetcode/tree/master/0131-palindrome-partitioning) |

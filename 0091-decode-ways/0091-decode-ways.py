@@ -9,3 +9,5 @@ class Solution:
             if i>=2 and 10<=int(s[i-2:i])<=26:
                 dp[i]+=dp[i-2]
         return dp[n]
+            
+

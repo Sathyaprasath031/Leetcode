@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sathyaprasath031/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sathyaprasath031/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Sathyaprasath031/Leetcode/tree/master/0733-flood-fill) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -335,5 +338,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->

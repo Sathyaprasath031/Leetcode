@@ -15,3 +15,4 @@ class Solution:
             skip=max(l)+max(r)
             return [rob,skip]
         return max(dp(root))
+    #this is house robber 3

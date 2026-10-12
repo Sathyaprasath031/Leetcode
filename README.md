@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Sathyaprasath031/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sathyaprasath031/Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sathyaprasath031/Leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sathyaprasath031/Leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Sathyaprasath031/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Sathyaprasath031/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sathyaprasath031/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Sathyaprasath031/Leetcode/tree/master/0091-decode-ways) |

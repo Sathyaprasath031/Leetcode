@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Sathyaprasath031/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Sathyaprasath031/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0229-majority-element-ii) |
+| [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sathyaprasath031/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Sathyaprasath031/Leetcode/tree/master/0139-word-break) |
+| [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/Sathyaprasath031/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Sathyaprasath031/Leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0860-lemonade-change) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
 ## Quicksort
 |  |
 | ------- |

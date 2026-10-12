@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/Sathyaprasath031/Leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0860-lemonade-change) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0860-lemonade-change) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |

@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0860-lemonade-change) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/Sathyaprasath031/Leetcode/tree/master/1125-smallest-sufficient-team) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/Sathyaprasath031/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1143-longest-common-subsequence](https://github.com/Sathyaprasath031/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Recursion
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/Sathyaprasath031/Leetcode/tree/master/1125-smallest-sufficient-team) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Algorithm X
 |  |
@@ -433,10 +436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/Sathyaprasath031/Leetcode/tree/master/1125-smallest-sufficient-team) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Bipartite Graph
 |  |
 | ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Successive Shortest Path Algorithm
 |  |
@@ -445,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matching (Graph)
 |  |
 | ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Minimum-Cost Flow
 |  |
@@ -454,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Perfect Matching
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 <!---LeetCode Topics End-->

@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Sathyaprasath031/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
+| [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0733-flood-fill](https://github.com/Sathyaprasath031/Leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0860-lemonade-change) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/Sathyaprasath031/Leetcode/tree/master/0343-integer-break) |
 | [0464-can-i-win](https://github.com/Sathyaprasath031/Leetcode/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0968-binary-tree-cameras](https://github.com/Sathyaprasath031/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1143-longest-common-subsequence](https://github.com/Sathyaprasath031/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -281,11 +283,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sathyaprasath031/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sathyaprasath031/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0078-subsets) |
 | [0464-can-i-win](https://github.com/Sathyaprasath031/Leetcode/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
 ## Algorithm X
 |  |
 | ------- |
@@ -386,4 +390,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Sathyaprasath031/Leetcode/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->

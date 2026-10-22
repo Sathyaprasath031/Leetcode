@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Sathyaprasath031/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 | [0733-flood-fill](https://github.com/Sathyaprasath031/Leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0860-lemonade-change) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Sathyaprasath031/Leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Sathyaprasath031/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0968-binary-tree-cameras](https://github.com/Sathyaprasath031/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1143-longest-common-subsequence](https://github.com/Sathyaprasath031/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Sathyaprasath031/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Sathyaprasath031/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Sathyaprasath031/Leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Sathyaprasath031/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 ## Algorithm X
 |  |
 | ------- |
@@ -320,16 +324,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Sathyaprasath031/Leetcode/tree/master/0139-word-break) |
 | [0464-can-i-win](https://github.com/Sathyaprasath031/Leetcode/tree/master/0464-can-i-win) |
+| [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 ## Knapsack Problem
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Sathyaprasath031/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0322-coin-change) |
+| [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Sathyaprasath031/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0322-coin-change) |
+| [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -396,4 +403,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Sathyaprasath031/Leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Sathyaprasath031/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->

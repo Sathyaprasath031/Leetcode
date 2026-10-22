@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Sathyaprasath031/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Sathyaprasath031/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/Sathyaprasath031/Leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0860-lemonade-change) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Sathyaprasath031/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Sathyaprasath031/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0968-binary-tree-cameras](https://github.com/Sathyaprasath031/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1143-longest-common-subsequence](https://github.com/Sathyaprasath031/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Sathyaprasath031/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Sathyaprasath031/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Sathyaprasath031/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Sathyaprasath031/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Algorithm X
 |  |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Sathyaprasath031/Leetcode/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Sathyaprasath031/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -416,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Sathyaprasath031/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Sathyaprasath031/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Bipartite Graph
 |  |

@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/Sathyaprasath031/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Sathyaprasath031/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-concatenated-divisibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/3533-concatenated-divisibility) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Sathyaprasath031/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Recursion
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Sathyaprasath031/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Sathyaprasath031/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Algorithm X
 |  |
 | ------- |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Sathyaprasath031/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Bipartite Graph
 |  |
 | ------- |

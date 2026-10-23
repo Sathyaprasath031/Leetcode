@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-concatenated-divisibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/3533-concatenated-divisibility) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-concatenated-divisibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/3533-concatenated-divisibility) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 ## Algorithm X
 |  |
 | ------- |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-concatenated-divisibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/3533-concatenated-divisibility) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 ## Bipartite Graph
 |  |
 | ------- |
@@ -548,4 +552,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
+## Shortest Path
+|  |
+| ------- |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 <!---LeetCode Topics End-->

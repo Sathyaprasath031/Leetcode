@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Sathyaprasath031/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Sathyaprasath031/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Sathyaprasath031/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Sathyaprasath031/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Recursion
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Sathyaprasath031/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Sathyaprasath031/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Algorithm X
 |  |
 | ------- |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Sathyaprasath031/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Sathyaprasath031/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Bipartite Graph
 |  |
 | ------- |

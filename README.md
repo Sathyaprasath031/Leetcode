@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/Sathyaprasath031/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/Sathyaprasath031/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3533-concatenated-divisibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/3533-concatenated-divisibility) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3533-concatenated-divisibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/3533-concatenated-divisibility) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 ## Recursion
 |  |
 | ------- |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3533-concatenated-divisibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/3533-concatenated-divisibility) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 ## Algorithm X
 |  |
 | ------- |
@@ -508,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3533-concatenated-divisibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/3533-concatenated-divisibility) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 ## Bipartite Graph
 |  |
 | ------- |

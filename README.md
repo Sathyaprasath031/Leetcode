@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
+| [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
+| [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
+| [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
 ## Algorithm X
 |  |
 | ------- |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
+| [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
 ## Bipartite Graph
 |  |
 | ------- |

@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Sathyaprasath031/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/Sathyaprasath031/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0313-super-ugly-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sathyaprasath031/Leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Sathyaprasath031/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Sathyaprasath031/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0313-super-ugly-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/Sathyaprasath031/Leetcode/tree/master/0343-integer-break) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Sathyaprasath031/Leetcode/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/Sathyaprasath031/Leetcode/tree/master/0343-integer-break) |
 | [0464-can-i-win](https://github.com/Sathyaprasath031/Leetcode/tree/master/0464-can-i-win) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |

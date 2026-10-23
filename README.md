@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3533-concatenated-divisibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/3533-concatenated-divisibility) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3533-concatenated-divisibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/3533-concatenated-divisibility) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3533-concatenated-divisibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/3533-concatenated-divisibility) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Algorithm X
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Queue
 |  |
 | ------- |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3533-concatenated-divisibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/3533-concatenated-divisibility) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Bipartite Graph
 |  |
 | ------- |
@@ -533,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->

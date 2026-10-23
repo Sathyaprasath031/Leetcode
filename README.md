@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Sathyaprasath031/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Sathyaprasath031/Leetcode/tree/master/0733-flood-fill) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Sathyaprasath031/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Sathyaprasath031/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Recursion
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Sathyaprasath031/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Sathyaprasath031/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Algorithm X
 |  |
 | ------- |
@@ -487,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Sathyaprasath031/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Bipartite Graph
 |  |
 | ------- |

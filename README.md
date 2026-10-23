@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sathyaprasath031/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sathyaprasath031/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Sathyaprasath031/Leetcode/tree/master/0733-flood-fill) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Binary Tree
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Sathyaprasath031/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Sathyaprasath031/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Sathyaprasath031/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Algorithm X
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Queue
 |  |
 | ------- |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Sathyaprasath031/Leetcode/tree/master/0464-can-i-win) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Bitmask
 |  |
 | ------- |
@@ -481,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Sathyaprasath031/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Bipartite Graph
 |  |
 | ------- |

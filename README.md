@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Sathyaprasath031/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 ## Recursion
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Sathyaprasath031/Leetcode/tree/master/0684-redundant-connection) |
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sathyaprasath031/Leetcode/tree/master/0207-course-schedule) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 ## Algorithm X
 |  |
 | ------- |
@@ -493,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Sathyaprasath031/Leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 ## Bipartite Graph
 |  |
 | ------- |

@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [4027-elevator-requests-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/4027-elevator-requests-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sathyaprasath031/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
+| [4027-elevator-requests-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/4027-elevator-requests-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Sathyaprasath031/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
+| [4027-elevator-requests-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/4027-elevator-requests-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Sathyaprasath031/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
+| [4027-elevator-requests-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/4027-elevator-requests-iii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Sathyaprasath031/Leetcode/tree/master/3615-longest-palindromic-path-in-graph) |
+| [4027-elevator-requests-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/4027-elevator-requests-iii) |
 ## Bipartite Graph
 |  |
 | ------- |

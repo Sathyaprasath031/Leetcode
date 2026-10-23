@@ -1,0 +1,61 @@
+import java.util.HashMap;
+import java.util.Map;
+
+class Solution {
+    private String s;
+        private int k;
+            private Map<Long, Integer> memo;
+
+                public int maxPartitionsAfterOperations(String s, int k) {
+                        this.s = s;
+                                this.k = k;
+                                        this.memo = new HashMap<>();
+                                                
+                                                        // Start DFS at index 0, with an empty character mask, and haven't changed any character yet (0).
+                                                                return dfs(0, 0, 0);
+                                                                    }
+
+                                                                        private int dfs(int i, int mask, int changed) {
+                                                                                // Base case: if we reach the end of the string, the last partition counts as 1.
+                                                                                        if (i == s.length()) {
+                                                                                                    return 1;
+                                                                                                            }
+
+                                                                                                                    // Create a unique key for the current state (i uses 14 bits, mask uses 26 bits, changed uses 1 bit)
+                                                                                                                            long key = ((long) i << 27) | ((long) mask << 1) | changed;
+                                                                                                                                    if (memo.containsKey(key)) {
+                                                                                                                                                return memo.get(key);
+                                                                                                                                                        }
+
+                                                                                                                                                                int maxPartitions = 0;
+
+                                                                                                                                                                        // Option 1: Do not change the current character
+                                                                                                                                                                                int charIdx = s.charAt(i) - 'a';
+                                                                                                                                                                                        int newMask = mask | (1 << charIdx);
+                                                                                                                                                                                                
+                                                                                                                                                                                                        if (Integer.bitCount(newMask) > k) {
+                                                                                                                                                                                                                    // Adding this character exceeds k distinct chars. Close partition and start a new one.
+                                                                                                                                                                                                                                maxPartitions = Math.max(maxPartitions, 1 + dfs(i + 1, 1 << charIdx, changed));
+                                                                                                                                                                                                                                        } else {
+                                                                                                                                                                                                                                                    // Continue the current partition
+                                                                                                                                                                                                                                                                maxPartitions = Math.max(maxPartitions, dfs(i + 1, newMask, changed));
+                                                                                                                                                                                                                                                                        }
+
+                                                                                                                                                                                                                                                                                // Option 2: Change the current character (only if we haven't changed one before)
+                                                                                                                                                                                                                                                                                        if (changed == 0) {
+                                                                                                                                                                                                                                                                                                    for (int j = 0; j < 26; j++) {
+                                                                                                                                                                                                                                                                                                                    if (j == charIdx) continue; // Skip the original character since we already processed it
+                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                    int changedMask = mask | (1 << j);
+                                                                                                                                                                                                                                                                                                                                                                    if (Integer.bitCount(changedMask) > k) {
+                                                                                                                                                                                                                                                                                                                                                                                        maxPartitions = Math.max(maxPartitions, 1 + dfs(i + 1, 1 << j, 1));
+                                                                                                                                                                                                                                                                                                                                                                                                        } else {
+                                                                                                                                                                                                                                                                                                                                                                                                                            maxPartitions = Math.max(maxPartitions, dfs(i + 1, changedMask, 1));
+                                                                                                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        memo.put(key, maxPartitions);
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                return maxPartitions;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    }

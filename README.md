@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Sathyaprasath031/Leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [1659-maximize-grid-happiness](https://github.com/Sathyaprasath031/Leetcode/tree/master/1659-maximize-grid-happiness) |
 | [1681-minimum-incompatibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sathyaprasath031/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Sathyaprasath031/Leetcode/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Sathyaprasath031/Leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [1659-maximize-grid-happiness](https://github.com/Sathyaprasath031/Leetcode/tree/master/1659-maximize-grid-happiness) |
 | [1681-minimum-incompatibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sathyaprasath031/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Sathyaprasath031/Leetcode/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Sathyaprasath031/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1659-maximize-grid-happiness](https://github.com/Sathyaprasath031/Leetcode/tree/master/1659-maximize-grid-happiness) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Sathyaprasath031/Leetcode/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 ## Knapsack Problem
 |  |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Sathyaprasath031/Leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [1659-maximize-grid-happiness](https://github.com/Sathyaprasath031/Leetcode/tree/master/1659-maximize-grid-happiness) |
 | [1681-minimum-incompatibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sathyaprasath031/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Sathyaprasath031/Leetcode/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |

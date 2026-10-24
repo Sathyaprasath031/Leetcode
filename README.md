@@ -745,4 +745,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Sathyaprasath031/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->

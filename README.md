@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/Sathyaprasath031/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sathyaprasath031/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sathyaprasath031/Leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/Sathyaprasath031/Leetcode/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/Sathyaprasath031/Leetcode/tree/master/0733-flood-fill) |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Sathyaprasath031/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/Sathyaprasath031/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1143-longest-common-subsequence](https://github.com/Sathyaprasath031/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sathyaprasath031/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/Sathyaprasath031/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sathyaprasath031/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/Sathyaprasath031/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sathyaprasath031/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
@@ -569,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bipartite Graph
 |  |
 | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Successive Shortest Path Algorithm
@@ -578,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matching (Graph)
 |  |
 | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Minimum-Cost Flow
@@ -587,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Flow Network
 |  |
 | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Perfect Matching
 |  |
@@ -624,4 +632,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/Sathyaprasath031/Leetcode/tree/master/0943-find-the-shortest-superstring) |
+## Maximum Flow
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
+## Maximum Matching
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
+## Edmonds–Karp Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
+## MPM Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
+## Push-Relabel Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
+## Minimum Cut
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
+## Dinic's Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 <!---LeetCode Topics End-->

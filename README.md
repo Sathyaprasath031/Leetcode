@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/Sathyaprasath031/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Sathyaprasath031/Leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 ## Depth-First Search
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Sathyaprasath031/Leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Sathyaprasath031/Leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1681-minimum-incompatibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sathyaprasath031/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Sathyaprasath031/Leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1681-minimum-incompatibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sathyaprasath031/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Sathyaprasath031/Leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1681-minimum-incompatibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sathyaprasath031/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |

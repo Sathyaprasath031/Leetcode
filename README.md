@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Sathyaprasath031/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2172-maximum-and-sum-of-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/2172-maximum-and-sum-of-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Sathyaprasath031/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sathyaprasath031/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Sathyaprasath031/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Sathyaprasath031/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Sathyaprasath031/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -603,29 +608,35 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Successive Shortest Path Algorithm
 |  |
 | ------- |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Matching (Graph)
 |  |
 | ------- |
 | [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Minimum-Cost Flow
 |  |
 | ------- |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Flow Network
 |  |
 | ------- |
 | [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Perfect Matching
 |  |
 | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sathyaprasath031/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -692,4 +703,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->

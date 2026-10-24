@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [1681-minimum-incompatibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sathyaprasath031/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Sathyaprasath031/Leetcode/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sathyaprasath031/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [1681-minimum-incompatibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [1681-minimum-incompatibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sathyaprasath031/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Sathyaprasath031/Leetcode/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [1681-minimum-incompatibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sathyaprasath031/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Sathyaprasath031/Leetcode/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
@@ -591,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [1681-minimum-incompatibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/1681-minimum-incompatibility) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sathyaprasath031/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Sathyaprasath031/Leetcode/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/1879-minimum-xor-sum-of-two-arrays) |

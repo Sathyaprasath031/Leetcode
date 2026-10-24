@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2172-maximum-and-sum-of-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/2172-maximum-and-sum-of-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [2172-maximum-and-sum-of-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/2172-maximum-and-sum-of-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [2172-maximum-and-sum-of-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/2172-maximum-and-sum-of-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [2172-maximum-and-sum-of-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/2172-maximum-and-sum-of-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |

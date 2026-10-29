@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sathyaprasath031/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1681-minimum-incompatibility](https://github.com/Sathyaprasath031/Leetcode/tree/master/1681-minimum-incompatibility) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Sathyaprasath031/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sathyaprasath031/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sathyaprasath031/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0229-majority-element-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Sathyaprasath031/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1655-distribute-repeating-integers](https://github.com/Sathyaprasath031/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Sathyaprasath031/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/Sathyaprasath031/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/0908-smallest-range-i) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Sathyaprasath031/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sathyaprasath031/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |

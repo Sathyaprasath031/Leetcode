@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Sathyaprasath031/Leetcode/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/Sathyaprasath031/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Sathyaprasath031/Leetcode/tree/master/0290-word-pattern) |
+| [0415-add-strings](https://github.com/Sathyaprasath031/Leetcode/tree/master/0415-add-strings) |
 | [0691-stickers-to-spell-word](https://github.com/Sathyaprasath031/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
 | [0943-find-the-shortest-superstring](https://github.com/Sathyaprasath031/Leetcode/tree/master/0943-find-the-shortest-superstring) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/Sathyaprasath031/Leetcode/tree/master/0335-self-crossing) |
 | [0343-integer-break](https://github.com/Sathyaprasath031/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sathyaprasath031/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0415-add-strings](https://github.com/Sathyaprasath031/Leetcode/tree/master/0415-add-strings) |
 | [0464-can-i-win](https://github.com/Sathyaprasath031/Leetcode/tree/master/0464-can-i-win) |
 | [0805-split-array-with-same-average](https://github.com/Sathyaprasath031/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Sathyaprasath031/Leetcode/tree/master/0415-add-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |

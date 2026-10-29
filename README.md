@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0805-split-array-with-same-average](https://github.com/Sathyaprasath031/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0860-lemonade-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0860-lemonade-change) |
+| [0908-smallest-range-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/0908-smallest-range-i) |
 | [0943-find-the-shortest-superstring](https://github.com/Sathyaprasath031/Leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/Sathyaprasath031/Leetcode/tree/master/1125-smallest-sufficient-team) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sathyaprasath031/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0805-split-array-with-same-average](https://github.com/Sathyaprasath031/Leetcode/tree/master/0805-split-array-with-same-average) |
+| [0908-smallest-range-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/0908-smallest-range-i) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sathyaprasath031/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |

@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Sathyaprasath031/Leetcode/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Sathyaprasath031/Leetcode/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/Sathyaprasath031/Leetcode/tree/master/0335-self-crossing) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/0292-nim-game) |
 | [0464-can-i-win](https://github.com/Sathyaprasath031/Leetcode/tree/master/0464-can-i-win) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Bitmask
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Sathyaprasath031/Leetcode/tree/master/0319-bulb-switcher) |
 ## Geometry
 |  |
@@ -760,4 +763,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/Sathyaprasath031/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Sathyaprasath031/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3570-find-books-with-no-available-copies](https://github.com/Sathyaprasath031/Leetcode/tree/master/3570-find-books-with-no-available-copies) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

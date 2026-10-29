@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0805-split-array-with-same-average](https://github.com/Sathyaprasath031/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0860-lemonade-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0860-lemonade-change) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Sathyaprasath031/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/0908-smallest-range-i) |
 | [0943-find-the-shortest-superstring](https://github.com/Sathyaprasath031/Leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sathyaprasath031/Leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/Sathyaprasath031/Leetcode/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/Sathyaprasath031/Leetcode/tree/master/0733-flood-fill) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Sathyaprasath031/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Sathyaprasath031/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sathyaprasath031/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0805-split-array-with-same-average](https://github.com/Sathyaprasath031/Leetcode/tree/master/0805-split-array-with-same-average) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Sathyaprasath031/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/0908-smallest-range-i) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/Sathyaprasath031/Leetcode/tree/master/0335-self-crossing) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Sathyaprasath031/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Sathyaprasath031/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Meet in the Middle
 |  |

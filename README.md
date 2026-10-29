@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3575-maximum-good-subtree-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Sathyaprasath031/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [3996-even-number-of-knight-moves](https://github.com/Sathyaprasath031/Leetcode/tree/master/3996-even-number-of-knight-moves) |
 | [4027-elevator-requests-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/4027-elevator-requests-iii) |
 ## Divide and Conquer
 |  |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3959-check-good-integer](https://github.com/Sathyaprasath031/Leetcode/tree/master/3959-check-good-integer) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Sathyaprasath031/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Sathyaprasath031/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+| [3996-even-number-of-knight-moves](https://github.com/Sathyaprasath031/Leetcode/tree/master/3996-even-number-of-knight-moves) |
 ## Queue
 |  |
 | ------- |

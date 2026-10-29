@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sathyaprasath031/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sathyaprasath031/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/0055-jump-game) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sathyaprasath031/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sathyaprasath031/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0229-majority-element-ii) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sathyaprasath031/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sathyaprasath031/Leetcode/tree/master/0079-word-search) |

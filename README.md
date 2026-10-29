@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/Sathyaprasath031/Leetcode/tree/master/0335-self-crossing) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
+| [0523-continuous-subarray-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/Sathyaprasath031/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0598-range-addition-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0598-range-addition-ii) |
 | [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sathyaprasath031/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Sathyaprasath031/Leetcode/tree/master/0290-word-pattern) |
+| [0523-continuous-subarray-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0691-stickers-to-spell-word](https://github.com/Sathyaprasath031/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
 | [0805-split-array-with-same-average](https://github.com/Sathyaprasath031/Leetcode/tree/master/0805-split-array-with-same-average) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Sathyaprasath031/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Sathyaprasath031/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sathyaprasath031/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -821,5 +824,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2485-find-the-pivot-integer](https://github.com/Sathyaprasath031/Leetcode/tree/master/2485-find-the-pivot-integer) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->

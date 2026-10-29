@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Sathyaprasath031/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0598-range-addition-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0598-range-addition-ii) |
 | [0638-shopping-offers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Sathyaprasath031/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Sathyaprasath031/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Sathyaprasath031/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0598-range-addition-ii) |
 | [0805-split-array-with-same-average](https://github.com/Sathyaprasath031/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |

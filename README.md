@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Sathyaprasath031/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sathyaprasath031/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sathyaprasath031/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3024-type-of-triangle](https://github.com/Sathyaprasath031/Leetcode/tree/master/3024-type-of-triangle) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-maximum-students-taking-exam](https://github.com/Sathyaprasath031/Leetcode/tree/master/1349-maximum-students-taking-exam) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Sathyaprasath031/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Sathyaprasath031/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sathyaprasath031/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sathyaprasath031/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 ## Hash Table
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sathyaprasath031/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sathyaprasath031/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sathyaprasath031/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sathyaprasath031/Leetcode/tree/master/0415-add-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sathyaprasath031/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sathyaprasath031/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3894-traffic-signal-color](https://github.com/Sathyaprasath031/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/Sathyaprasath031/Leetcode/tree/master/3959-check-good-integer) |
 ## Memoization

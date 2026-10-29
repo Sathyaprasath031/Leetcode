@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2172-maximum-and-sum-of-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/2172-maximum-and-sum-of-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sathyaprasath031/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Sathyaprasath031/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/Sathyaprasath031/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sathyaprasath031/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Sathyaprasath031/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/Sathyaprasath031/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Sathyaprasath031/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |

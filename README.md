@@ -860,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/Sathyaprasath031/Leetcode/tree/master/0262-trips-and-users) |
 | [0577-employee-bonus](https://github.com/Sathyaprasath031/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Sathyaprasath031/Leetcode/tree/master/0584-find-customer-referee) |
+| [0601-human-traffic-of-stadium](https://github.com/Sathyaprasath031/Leetcode/tree/master/0601-human-traffic-of-stadium) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Sathyaprasath031/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3570-find-books-with-no-available-copies](https://github.com/Sathyaprasath031/Leetcode/tree/master/3570-find-books-with-no-available-copies) |
 ## Minimax

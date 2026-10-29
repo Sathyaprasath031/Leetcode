@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Sathyaprasath031/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2485-find-the-pivot-integer](https://github.com/Sathyaprasath031/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
@@ -793,4 +794,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sathyaprasath031/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/Sathyaprasath031/Leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->

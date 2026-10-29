@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2741-special-permutations](https://github.com/Sathyaprasath031/Leetcode/tree/master/2741-special-permutations) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Sathyaprasath031/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3024-type-of-triangle](https://github.com/Sathyaprasath031/Leetcode/tree/master/3024-type-of-triangle) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Sathyaprasath031/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0860-lemonade-change) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sathyaprasath031/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/Sathyaprasath031/Leetcode/tree/master/3024-type-of-triangle) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 ## Combinatorics
 |  |

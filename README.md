@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3908-valid-digit-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Sathyaprasath031/Leetcode/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Sathyaprasath031/Leetcode/tree/master/3959-check-good-integer) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Sathyaprasath031/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |

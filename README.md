@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sathyaprasath031/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3959-check-good-integer](https://github.com/Sathyaprasath031/Leetcode/tree/master/3959-check-good-integer) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Sathyaprasath031/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Sathyaprasath031/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Queue
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sathyaprasath031/Leetcode/tree/master/0415-add-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sathyaprasath031/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3959-check-good-integer](https://github.com/Sathyaprasath031/Leetcode/tree/master/3959-check-good-integer) |
 ## Memoization
 |  |
 | ------- |

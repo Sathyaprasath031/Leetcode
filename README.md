@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sathyaprasath031/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0805-split-array-with-same-average](https://github.com/Sathyaprasath031/Leetcode/tree/master/0805-split-array-with-same-average) |
+| [0836-rectangle-overlap](https://github.com/Sathyaprasath031/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Sathyaprasath031/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/0908-smallest-range-i) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/Sathyaprasath031/Leetcode/tree/master/0335-self-crossing) |
+| [0836-rectangle-overlap](https://github.com/Sathyaprasath031/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Sathyaprasath031/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Sathyaprasath031/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Meet in the Middle

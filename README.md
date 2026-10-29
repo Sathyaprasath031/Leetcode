@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/Sathyaprasath031/Leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Sathyaprasath031/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0805-split-array-with-same-average](https://github.com/Sathyaprasath031/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0860-lemonade-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0860-lemonade-change) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Sathyaprasath031/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sathyaprasath031/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Sathyaprasath031/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3024-type-of-triangle](https://github.com/Sathyaprasath031/Leetcode/tree/master/3024-type-of-triangle) |
 | [4027-elevator-requests-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/4027-elevator-requests-iii) |

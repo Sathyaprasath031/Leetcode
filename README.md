@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Sathyaprasath031/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Sathyaprasath031/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/0908-smallest-range-i) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/Sathyaprasath031/Leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [0996-number-of-squareful-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/Sathyaprasath031/Leetcode/tree/master/1125-smallest-sufficient-team) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sathyaprasath031/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Sathyaprasath031/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3024-type-of-triangle](https://github.com/Sathyaprasath031/Leetcode/tree/master/3024-type-of-triangle) |
 | [4027-elevator-requests-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/4027-elevator-requests-iii) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Quicksort
 |  |

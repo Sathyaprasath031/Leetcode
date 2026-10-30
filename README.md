@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sathyaprasath031/Leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Sathyaprasath031/Leetcode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Sathyaprasath031/Leetcode/tree/master/0139-word-break) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sathyaprasath031/Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sathyaprasath031/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0922-sort-array-by-parity-ii) |

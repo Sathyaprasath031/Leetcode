@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Sathyaprasath031/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sathyaprasath031/Leetcode/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Sathyaprasath031/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Matrix
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sathyaprasath031/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Sathyaprasath031/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Sathyaprasath031/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sathyaprasath031/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sathyaprasath031/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Sathyaprasath031/Leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -925,4 +928,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0002-add-two-numbers) |
 | [0147-insertion-sort-list](https://github.com/Sathyaprasath031/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Sathyaprasath031/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sathyaprasath031/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sathyaprasath031/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0523-continuous-subarray-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sathyaprasath031/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sathyaprasath031/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Sathyaprasath031/Leetcode/tree/master/0888-fair-candy-swap) |

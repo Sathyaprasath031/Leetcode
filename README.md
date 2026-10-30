@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2172-maximum-and-sum-of-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/2172-maximum-and-sum-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Sathyaprasath031/Leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Sathyaprasath031/Leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sathyaprasath031/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sathyaprasath031/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Sathyaprasath031/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Sathyaprasath031/Leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Sathyaprasath031/Leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3024-type-of-triangle](https://github.com/Sathyaprasath031/Leetcode/tree/master/3024-type-of-triangle) |
 | [4027-elevator-requests-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/4027-elevator-requests-iii) |
 ## Greedy
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Sathyaprasath031/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Sathyaprasath031/Leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sathyaprasath031/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathyaprasath031/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |

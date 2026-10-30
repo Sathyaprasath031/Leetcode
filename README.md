@@ -866,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Sathyaprasath031/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Sathyaprasath031/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/Sathyaprasath031/Leetcode/tree/master/0601-human-traffic-of-stadium) |
+| [0619-biggest-single-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0619-biggest-single-number) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sathyaprasath031/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3451-find-invalid-ip-addresses](https://github.com/Sathyaprasath031/Leetcode/tree/master/3451-find-invalid-ip-addresses) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Sathyaprasath031/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |

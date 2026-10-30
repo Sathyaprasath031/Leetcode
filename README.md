@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sathyaprasath031/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sathyaprasath031/Leetcode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/Sathyaprasath031/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sathyaprasath031/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Sathyaprasath031/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sathyaprasath031/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/Sathyaprasath031/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sathyaprasath031/Leetcode/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/Sathyaprasath031/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Sathyaprasath031/Leetcode/tree/master/0763-partition-labels) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sathyaprasath031/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 ## Shortest Path
 |  |
@@ -959,4 +963,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Sathyaprasath031/Leetcode/tree/master/0274-h-index) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sathyaprasath031/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->

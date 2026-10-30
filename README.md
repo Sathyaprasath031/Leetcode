@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Sathyaprasath031/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Sathyaprasath031/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Sathyaprasath031/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sathyaprasath031/Leetcode/tree/master/0290-word-pattern) |
 | [0523-continuous-subarray-sum](https://github.com/Sathyaprasath031/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0691-stickers-to-spell-word](https://github.com/Sathyaprasath031/Leetcode/tree/master/0691-stickers-to-spell-word) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Sathyaprasath031/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sathyaprasath031/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Sathyaprasath031/Leetcode/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/Sathyaprasath031/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sathyaprasath031/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Sathyaprasath031/Leetcode/tree/master/0290-word-pattern) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sathyaprasath031/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Sathyaprasath031/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Sathyaprasath031/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Sathyaprasath031/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sathyaprasath031/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Sathyaprasath031/Leetcode/tree/master/0888-fair-candy-swap) |

@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Sathyaprasath031/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2172-maximum-and-sum-of-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/2172-maximum-and-sum-of-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Sathyaprasath031/Leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sathyaprasath031/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sathyaprasath031/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Sathyaprasath031/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sathyaprasath031/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Sathyaprasath031/Leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3024-type-of-triangle](https://github.com/Sathyaprasath031/Leetcode/tree/master/3024-type-of-triangle) |
 | [4027-elevator-requests-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/4027-elevator-requests-iii) |
 ## Greedy
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sathyaprasath031/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Sathyaprasath031/Leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sathyaprasath031/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Sathyaprasath031/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/Sathyaprasath031/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -838,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Sathyaprasath031/Leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Sathyaprasath031/Leetcode/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Sathyaprasath031/Leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Sathyaprasath031/Leetcode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
@@ -867,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/Sathyaprasath031/Leetcode/tree/master/0335-self-crossing) |
 | [0836-rectangle-overlap](https://github.com/Sathyaprasath031/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Sathyaprasath031/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Sathyaprasath031/Leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Sathyaprasath031/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Meet in the Middle
 |  |

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sathyaprasath031/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sathyaprasath031/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0332-reconstruct-itinerary](https://github.com/Sathyaprasath031/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Sathyaprasath031/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Sathyaprasath031/Leetcode/tree/master/0547-number-of-provinces) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Sathyaprasath031/Leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Sathyaprasath031/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/Sathyaprasath031/Leetcode/tree/master/0335-self-crossing) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/Sathyaprasath031/Leetcode/tree/master/0473-matchsticks-to-square) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sathyaprasath031/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sathyaprasath031/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Sathyaprasath031/Leetcode/tree/master/0290-word-pattern) |
+| [0332-reconstruct-itinerary](https://github.com/Sathyaprasath031/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sathyaprasath031/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Sathyaprasath031/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Sathyaprasath031/Leetcode/tree/master/0504-base-7) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Sathyaprasath031/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Sathyaprasath031/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Sathyaprasath031/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0455-assign-cookies](https://github.com/Sathyaprasath031/Leetcode/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sathyaprasath031/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Sathyaprasath031/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sathyaprasath031/Leetcode/tree/master/0207-course-schedule) |
+| [0332-reconstruct-itinerary](https://github.com/Sathyaprasath031/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/Sathyaprasath031/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sathyaprasath031/Leetcode/tree/master/0684-redundant-connection) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Sathyaprasath031/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -823,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sathyaprasath031/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/Sathyaprasath031/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Sathyaprasath031/Leetcode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 ## Shortest Path
 |  |
@@ -975,4 +981,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Sathyaprasath031/Leetcode/tree/master/0324-wiggle-sort-ii) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sathyaprasath031/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sathyaprasath031/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sathyaprasath031/Leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->

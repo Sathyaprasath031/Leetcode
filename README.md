@@ -857,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Sathyaprasath031/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Sathyaprasath031/Leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Sathyaprasath031/Leetcode/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/Sathyaprasath031/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/Sathyaprasath031/Leetcode/tree/master/0262-trips-and-users) |
 | [0577-employee-bonus](https://github.com/Sathyaprasath031/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Sathyaprasath031/Leetcode/tree/master/0584-find-customer-referee) |

@@ -950,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/Sathyaprasath031/Leetcode/tree/master/0608-tree-node) |
 | [0619-biggest-single-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/Sathyaprasath031/Leetcode/tree/master/0626-exchange-seats) |
+| [1045-customers-who-bought-all-products](https://github.com/Sathyaprasath031/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sathyaprasath031/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3451-find-invalid-ip-addresses](https://github.com/Sathyaprasath031/Leetcode/tree/master/3451-find-invalid-ip-addresses) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Sathyaprasath031/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |

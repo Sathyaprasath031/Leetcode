@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Sathyaprasath031/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0060-permutation-sequence](https://github.com/Sathyaprasath031/Leetcode/tree/master/0060-permutation-sequence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sathyaprasath031/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sathyaprasath031/Leetcode/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/Sathyaprasath031/Leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Sathyaprasath031/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Sathyaprasath031/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Sathyaprasath031/Leetcode/tree/master/0279-perfect-squares) |
